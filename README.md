@@ -59,3 +59,27 @@ The number of 5-star reviews by vine members is only 410 compared to non-vine me
 ![image](https://user-images.githubusercontent.com/111020934/204790251-3b287a55-f238-45bd-981f-7cee1b29f4f2.png)
 
 The percentage of 5-star reviews given by vine members is just 1.4% while by non-vine members is 98.6%
+
+## Summary:
+
+Based on the analysis we can state that there is no positivity bias for reviews in the Vine program.
+The percentage of 5-star reviews given by the members of the vine program constitutes around 1.4% of the total 5-star reviews given.
+This shows that the vine members are using the product to decide on posting a positive review instead of blindly giving a 5-star review and that they are showing no bias.
+The rate at which the vine members are posting a review for a product must be compared with that of non vine members (review_date) that might support this statement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
