@@ -67,7 +67,7 @@ The percentage of 5-star reviews given by the members of the vine program consti
 This shows that the vine members are using the product to decide on posting a positive review instead of blindly giving a 5-star review and that they are showing no bias.
 The rate at which the vine members are posting a review for a product must be compared with that of non vine members (review_date) that might support this statement.
 
-
+Also, we need to extend our analysis for different datasets that might help us determine positive/negative Bias of Vine Reviews. We can also check if there is a bias of reviews for a product category/categories.
 
 
 
